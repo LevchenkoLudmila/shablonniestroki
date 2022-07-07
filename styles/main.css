@@ -1,0 +1,6 @@
+.wraper{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3de237
+}
